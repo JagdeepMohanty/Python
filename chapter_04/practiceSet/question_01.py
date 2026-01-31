@@ -3,3 +3,5 @@
 list=["apple","orange","mango","strawberry","kiwi","orange","papaya"]
 
 print(list)
+
+# done

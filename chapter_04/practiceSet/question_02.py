@@ -4,3 +4,5 @@ marks= [70,34,56,78,93,23]
 
 marks.sort()
 print(marks)
+
+#done
