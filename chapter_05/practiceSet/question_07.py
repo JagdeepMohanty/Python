@@ -7,7 +7,7 @@ value=["english","marathi","odia","gujrati"]
 s=dict(zip(keys,value))
  
 
-print(s)
+print(s)  #{'jadeep': 'english', 'jaggi': 'odia', 'jam': 'gujrati'}
 
 
 # In this case, since the name "jaggi" is repeated, the dictionary will only keep the last entry for that key.

@@ -1,6 +1,10 @@
 # Write a program to input eight numbers from the user and display all the unique numbers (once).
 
-numbers = input("Enter the numbers :")
-num_list= numbers.split(",")
-print(num_list)
+numbers = set()
+
+for i in range(8):
+    n = int(input(f"Enter number {i+1}: "))
+    numbers.add(n)
+
+print("Unique numbers are:", numbers)
 

@@ -7,4 +7,4 @@ value=["english","marathi","odia","gujrati"]
 s=dict(zip(keys,value))
  
 
-print(s)
+print(s)   #{'jadeep': 'english', 'jagu': 'marathi', 'jaggi': 'odia', 'jam': 'gujrati'}

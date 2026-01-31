@@ -4,3 +4,5 @@ s = set()
 s.add(18)
 s.add("18")
 print(s)
+
+# Yes, we can have both 18 (int) and '18' (str) in a set as they are of different data types.

@@ -2,6 +2,7 @@
 s = {8, 7, 12, "Harry", [1,2]}
 
 s.add[1,2,3]
-print(s)
+print(s)   #TypeError: cannot use 'list' as a set element (unhashable type: 'list')
+
 
 #no, it is showing error and type error of unhasable
