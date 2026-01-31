@@ -6,3 +6,6 @@ import pyjokes
 
 joke = pyjokes.get_joke()
 print(joke)
+
+
+#it will print random jokes 
