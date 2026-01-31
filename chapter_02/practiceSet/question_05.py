@@ -8,3 +8,5 @@ sum = a + b
 average= float(sum / 2) 
 
 print("Average of num1 and num2 is :", average)
+
+#done

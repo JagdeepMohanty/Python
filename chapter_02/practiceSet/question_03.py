@@ -3,3 +3,5 @@
 a=input("Enter the value of a:")
 
 print("The type of variable a is:",type(a))
+
+# done

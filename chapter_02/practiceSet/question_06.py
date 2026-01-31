@@ -6,3 +6,5 @@ a= float(input("Enter the  number: "))
 square= a*a 
 
 print("the square of the number is :" , square)
+
+# done
