@@ -6,3 +6,4 @@ date= input("Enter the date :")
 letter= "Dear" + name + "\n" + "You are selected!\n" + date 
 print(letter)
 print(f"Dear {name}\nYou are selected!\n{date} ")
+# done

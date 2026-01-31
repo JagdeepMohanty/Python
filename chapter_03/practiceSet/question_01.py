@@ -5,3 +5,5 @@ name= input("Enter the name :")
 
 print("Good Afternoon \t"+ name)  #type1
 print(f"Good Afternoon {name} ")  #type2
+
+# done
